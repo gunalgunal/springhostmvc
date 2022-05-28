@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>hello</title>
+<title>Insert title here</title>
 </head>
 <body>
 add a todo <BR/>
